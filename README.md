@@ -1,3 +1,3 @@
 # slideshow
 
-[Website](https://www.hongjianching.com/slideshow/)
+[Website](https://mason-lin.github.io/slideshow/)
